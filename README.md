@@ -10,7 +10,7 @@
 
 ## 3.反射机制提供的功能
 
-![image-20201208144222900](C:\Users\zsc\AppData\Roaming\Typora\typora-user-images\image-20201208144222900.png)
+[![rS26qe.png](https://s3.ax1x.com/2020/12/08/rS26qe.png)](https://imgchr.com/i/rS26qe)
 
 
 
